@@ -2,7 +2,7 @@
 
 Detail-oriented QA engineer with healthcare roots (Medical Assistant) + Psychology (B.S.). I test web, mobile, and APIs with a focus on accessibility, reliability, and clear documentation.
 
-**Focus:** Manual QA · UAT · Accessibility (WCAG 2.1) · API testing · Data validation (SQL)  
+**Focus:** Manual QA (web, iOS, Android) · UAT for global product launches & checkout flows · Accessibility (WCAG 2.1, Dark Mode, VoiceOver/TalkBack) · API testing & backend validation (Postman, SQL) · Data integrity & e-commerce compliance (3DS, AML, seller offers) · Basic automation testing using Cypress
 **Tools:** Jira · Zephyr · Postman · SQL · Charles Proxy · GitHub · Confluence
 
 ## Featured Projects
